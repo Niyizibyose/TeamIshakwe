@@ -42,10 +42,10 @@
 
                   <form class="user" action="process.php">
                     <div class="form-group">
-                      <input type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="username">
+                      <input type="email" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="username">
                     </div>
                     <div class="form-group">
-                      <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
+                      <input type="password" class="form-control form-control-user" id="pass" placeholder="Password" name="password">
                     </div>
                     <div class="form-group">
                       <div class="custom-control custom-checkbox small">
@@ -53,7 +53,7 @@
                         <label class="custom-control-label" for="customCheck">Remember Me</label>
                       </div>
                     </div>
-                    <a href="index.php" class="btn btn-primary btn-user btn-block">
+                    <a href="index.php" class="btn btn-primary btn-user btn-block" id="btn" type="submit">
                       Login
                     </a>
                     <hr>
