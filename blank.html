@@ -94,8 +94,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.html"> Team Staff</a>
-            <a class="collapse-item" href="tables.html"> Technical Staff</a>
+            <a class="collapse-item" href="tables.php"> Team Staff</a>
+            <a class="collapse-item" href="tables.php"> Technical Staff</a>
         
           </div>
         </div>
@@ -119,7 +119,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
           
             <a class="collapse-item" href="login.php">Goals</a>
-            <a class="collapse-item" href="register.html">Health</a>
+            <a class="collapse-item" href="register.php">Health</a>
             <a class="collapse-item" href="forgot-password.html">Contracts</a>
         
         </div>
@@ -135,7 +135,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
             
               <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.html"> Assistant Coach</a>
+              <a class="collapse-item" href="register.php"> Assistant Coach</a>
               <a class="collapse-item" href="forgot-password.html">Keeper's Coach</a>
           
           </div>
@@ -150,7 +150,7 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="tables.html">
+        <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
           <span>Fixtures</span></a>
       </li>
@@ -163,7 +163,7 @@
 
        <!-- Nav Item - Contacts -->
        <li class="nav-item">
-        <a class="nav-link" href="tables.html">
+        <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-database"></i>
           <span>Contacts</span></a>
       </li>
