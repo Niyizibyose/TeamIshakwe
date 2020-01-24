@@ -63,9 +63,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="buttons.html">2020/2019</a>
-            <a class="collapse-item" href="buttons.html">2019/2018</a>
-            <a class="collapse-item" href="cards.html"> 2018/2017</a>
+            <a class="collapse-item" href="buttons.php">2020/2019</a>
+            <a class="collapse-item" href="buttons.php">2019/2018</a>
+            <a class="collapse-item" href="cards.php"> 2018/2017</a>
           </div>
         </div>
       </li>
@@ -120,7 +120,7 @@
           
             <a class="collapse-item" href="login.php">Goals</a>
             <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.html">Contracts</a>
+            <a class="collapse-item" href="forgot-password.php">Contracts</a>
         
         </div>
       </li>
@@ -136,14 +136,14 @@
             
               <a class="collapse-item" href="login.php">Head Coach</a>
               <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.html">Keeper's Coach</a>
+              <a class="collapse-item" href="forgot-password.php">Keeper's Coach</a>
           
           </div>
         </li>
 
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="charts.php">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Statictics</span></a>
       </li>

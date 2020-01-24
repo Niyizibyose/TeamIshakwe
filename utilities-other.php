@@ -8,7 +8,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-
   <title>Ishakwe</title>
 
   <!-- Custom fonts for this template-->
@@ -63,9 +62,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="buttons.html">2020/2019</a>
-            <a class="collapse-item" href="buttons.html">2019/2018</a>
-            <a class="collapse-item" href="cards.html"> 2018/2017</a>
+            <a class="collapse-item" href="buttons.php">2020/2019</a>
+            <a class="collapse-item" href="buttons.php">2019/2018</a>
+            <a class="collapse-item" href="cards.php"> 2018/2017</a>
           </div>
         </div>
       </li>
@@ -80,7 +79,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="utilities-color.php"> Assets</a>
-            <a class="collapse-item" href="utilities-border.php">Equipments</a>
+            <a class="collapse-item" href="utilities-border.html">Equipments</a>
         
           </div>
         </div>
@@ -120,7 +119,7 @@
           
             <a class="collapse-item" href="login.php">Goals</a>
             <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.html">Contracts</a>
+            <a class="collapse-item" href="forgot-password.php">Contracts</a>
         
         </div>
       </li>
@@ -136,14 +135,14 @@
             
               <a class="collapse-item" href="login.php">Head Coach</a>
               <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.html">Keeper's Coach</a>
+              <a class="collapse-item" href="forgot-password.php">Keeper's Coach</a>
           
           </div>
         </li>
 
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="charts.php">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Statictics</span></a>
       </li>
@@ -370,7 +369,81 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-4 text-gray-800">Blank Page</h1>
+          <h1 class="h3 mb-1 text-gray-800">Other Utilities</h1>
+          <p class="mb-4">Bootstrap's default utility classes can be found on the official <a href="https://getbootstrap.com/docs">Bootstrap Documentation</a> page. The custom utilities below were created to extend this theme past the default utility classes built into Bootstrap's framework.</p>
+
+          <!-- Content Row -->
+          <div class="row">
+
+            <div class="col-lg-6">
+
+              <!-- Overflow Hidden -->
+              <div class="card mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Overflow Hidden Utilty</h6>
+                </div>
+                <div class="card-body">
+                  Use <code>.o-hidden</code> to set the overflow property of any element to hidden.
+                </div>
+              </div>
+
+              <!-- Progress Small -->
+              <div class="card mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Progress Small Utility</h6>
+                </div>
+                <div class="card-body">
+                  <div class="mb-1 small">Normal Progress Bar</div>
+                  <div class="progress mb-4">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="mb-1 small">Small Progress Bar</div>
+                  <div class="progress progress-sm mb-2">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  Use the <code>.progress-sm</code> class along with <code>.progress</code>
+                </div>
+              </div>
+
+              <!-- Dropdown No Arrow -->
+              <div class="card mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Dropdown - No Arrow</h6>
+                </div>
+                <div class="card-body">
+                  <div class="dropdown no-arrow mb-4">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Dropdown (no arrow)
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                      <a class="dropdown-item" href="#">Action</a>
+                      <a class="dropdown-item" href="#">Another action</a>
+                      <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                  </div>
+                  Add the <code>.no-arrow</code> class alongside the <code>.dropdown</code>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="col-lg-6">
+
+              <!-- Roitation Utilities -->
+              <div class="card">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Rotation Utilities</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="bg-primary text-white p-3 rotate-15 d-inline-block my-4">.rotate-15</div>
+                  <hr>
+                  <div class="bg-primary text-white p-3 rotate-n-15 d-inline-block my-4">.rotate-n-15</div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
 
         </div>
         <!-- /.container-fluid -->

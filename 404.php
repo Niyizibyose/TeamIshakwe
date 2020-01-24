@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Ishakwe</title>
+  <title>SB Admin 2 - 404</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -33,14 +33,14 @@
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Rayon Sport<sup>FC</sup></div>
+        <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
       </a>
 
       <!-- Divider -->
       <hr class="sidebar-divider my-0">
 
       <!-- Nav Item - Dashboard -->
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="index.html">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
@@ -51,21 +51,20 @@
 
       <!-- Heading -->
       <div class="sidebar-heading">
-        FINANCE MANAGEMENT
+        Interface
       </div>
 
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-          <i class="fas fa-fw fa-sort-amount-down"></i>
-          <span>Budget</span>
+          <i class="fas fa-fw fa-cog"></i>
+          <span>Components</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-
-            <a class="collapse-item" href="buttons.html">2020/2019</a>
-            <a class="collapse-item" href="buttons.html">2019/2018</a>
-            <a class="collapse-item" href="cards.html"> 2018/2017</a>
+            <h6 class="collapse-header">Custom Components:</h6>
+            <a class="collapse-item" href="buttons.php">Buttons</a>
+            <a class="collapse-item" href="cards.php">Cards</a>
           </div>
         </div>
       </li>
@@ -73,30 +72,16 @@
       <!-- Nav Item - Utilities Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
-          <i class="fas fa-fw fa-bars"></i>
-          <span>Logistics</span>
+          <i class="fas fa-fw fa-wrench"></i>
+          <span>Utilities</span>
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-            
-            <a class="collapse-item" href="utilities-color.php"> Assets</a>
-            <a class="collapse-item" href="utilities-border.php">Equipments</a>
-        
-          </div>
-        </div>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
-          <i class="fas fa-fw fa-user"></i>
-          <span>Human Resources</span>
-        </a>
-        <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
-          <div class="bg-white py-2 collapse-inner rounded">
-            
-            <a class="collapse-item" href="tables.php"> Team Staff</a>
-            <a class="collapse-item" href="tables.php"> Technical Staff</a>
-        
+            <h6 class="collapse-header">Custom Utilities:</h6>
+            <a class="collapse-item" href="utilities-color.php">Colors</a>
+            <a class="collapse-item" href="utilities-border.php">Borders</a>
+            <a class="collapse-item" href="utilities-animation.php">Animations</a>
+            <a class="collapse-item" href="utilities-other.php">Other</a>
           </div>
         </div>
       </li>
@@ -106,68 +91,42 @@
 
       <!-- Heading -->
       <div class="sidebar-heading">
-       TECHNICAL MANAGEMENT
+        Addons
       </div>
 
-      <!-- Nav Item - Players Collapse Menu -->
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
-          <i class="fas fa-fw fa-bullseye"></i>
-          <span>Players</span>
+      <!-- Nav Item - Pages Collapse Menu -->
+      <li class="nav-item active">
+        <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
+          <i class="fas fa-fw fa-folder"></i>
+          <span>Pages</span>
         </a>
-        <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+        <div id="collapsePages" class="collapse show" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-          
-            <a class="collapse-item" href="login.php">Goals</a>
-            <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.html">Contracts</a>
-        
+            <h6 class="collapse-header">Login Screens:</h6>
+            <a class="collapse-item" href="login.php">Login</a>
+            <a class="collapse-item" href="register.php">Register</a>
+            <a class="collapse-item" href="forgot-password.php">Forgot Password</a>
+            <div class="collapse-divider"></div>
+            <h6 class="collapse-header">Other Pages:</h6>
+            <a class="collapse-item active" href="404.php">404 Page</a>
+            <a class="collapse-item" href="blank.php">Blank Page</a>
+          </div>
         </div>
       </li>
 
-        <!-- Nav Item - Coaches Collapse Menu -->
-        <li class="nav-item">
-          <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
-            <i class="fas fa-fw fa-circle"></i>
-            <span> Coaches</span>
-          </a>
-          <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
-            <div class="bg-white py-2 collapse-inner rounded">
-            
-              <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.html">Keeper's Coach</a>
-          
-          </div>
-        </li>
-
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="charts.php">
           <i class="fas fa-fw fa-chart-area"></i>
-          <span>Statictics</span></a>
+          <span>Charts</span></a>
       </li>
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
         <a class="nav-link" href="tables.php">
-          <i class="fas fa-fw fa-calendar-plus"></i>
-          <span>Fixtures</span></a>
+          <i class="fas fa-fw fa-table"></i>
+          <span>Tables</span></a>
       </li>
-
-         
-    
-
-      <!-- Divider -->
-      <hr class="sidebar-divider d-none d-md-block">
-
-       <!-- Nav Item - Contacts -->
-       <li class="nav-item">
-        <a class="nav-link" href="tables.php">
-          <i class="fas fa-fw fa-database"></i>
-          <span>Contacts</span></a>
-      </li>
-
 
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
@@ -372,62 +331,12 @@
         <!-- Begin Page Content -->
         <div class="container-fluid">
 
-          <!-- Page Heading -->
-          <h1 class="h3 mb-2 text-gray-800">Charts</h1>
-          <p class="mb-4">Chart.js is a third party plugin that is used to generate the charts in this theme. The charts below have been customized - for further customization options, please visit the <a target="_blank" href="https://www.chartjs.org/docs/latest/">official Chart.js documentation</a>.</p>
-
-          <!-- Content Row -->
-          <div class="row">
-
-            <div class="col-xl-8 col-lg-7">
-
-              <!-- Area Chart -->
-              <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Area Chart</h6>
-                </div>
-                <div class="card-body">
-                  <div class="chart-area">
-                    <canvas id="myAreaChart"></canvas>
-                  </div>
-                  <hr>
-                  Styling for the area chart can be found in the <code>/js/demo/chart-area-demo.js</code> file.
-                </div>
-              </div>
-
-              <!-- Bar Chart -->
-              <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Bar Chart</h6>
-                </div>
-                <div class="card-body">
-                  <div class="chart-bar">
-                    <canvas id="myBarChart"></canvas>
-                  </div>
-                  <hr>
-                  Styling for the bar chart can be found in the <code>/js/demo/chart-bar-demo.js</code> file.
-                </div>
-              </div>
-
-            </div>
-
-            <!-- Donut Chart -->
-            <div class="col-xl-4 col-lg-5">
-              <div class="card shadow mb-4">
-                <!-- Card Header - Dropdown -->
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Donut Chart</h6>
-                </div>
-                <!-- Card Body -->
-                <div class="card-body">
-                  <div class="chart-pie pt-4">
-                    <canvas id="myPieChart"></canvas>
-                  </div>
-                  <hr>
-                  Styling for the donut chart can be found in the <code>/js/demo/chart-pie-demo.js</code> file.
-                </div>
-              </div>
-            </div>
+          <!-- 404 Error Text -->
+          <div class="text-center">
+            <div class="error mx-auto" data-text="404">404</div>
+            <p class="lead text-gray-800 mb-5">Page Not Found</p>
+            <p class="text-gray-500 mb-0">It looks like you found a glitch in the matrix...</p>
+            <a href="index.html">&larr; Back to Dashboard</a>
           </div>
 
         </div>
@@ -485,14 +394,6 @@
 
   <!-- Custom scripts for all pages-->
   <script src="js/sb-admin-2.min.js"></script>
-
-  <!-- Page level plugins -->
-  <script src="vendor/chart.js/Chart.min.js"></script>
-
-  <!-- Page level custom scripts -->
-  <script src="js/demo/chart-area-demo.js"></script>
-  <script src="js/demo/chart-pie-demo.js"></script>
-  <script src="js/demo/chart-bar-demo.js"></script>
 
 </body>
 
