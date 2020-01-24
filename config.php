@@ -9,9 +9,13 @@ $google_client->setClientID ('215432538358-8sev6oc198mqr6o93kfavbd7glotpoir.apps
 
 $google_client->setClientSecret ('Q3crif7Fmdt_ls7f_-PmKjjz');
 
-$google_client -> setRedirectUrl ('http://localhost/ProjectFoot/index.php');
+$google_client->setRedirectUrl ('http://localhost/ProjectFoot/index.php');
 
-$google_client -> addScope ('email');
+$google_client->addScope ('email');
+
+$google_client->addScope ('profile');
+
+session_start();
 
 
 
