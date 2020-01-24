@@ -45,6 +45,15 @@ if (isset ($_GET ["code"])) {
     }
   }
 }
+
+if (!isset ($_SESSION ['access_token']))
+{
+$login_button = '<a href="'.$google_client->createAuthUrl().'"> 
+<img src="kigali_logo.jpg" /></a>';
+
+}
+
+?>
 <html lang="en">
 
 <head>
@@ -129,6 +138,31 @@ if (isset ($_GET ["code"])) {
 
   </div>
 
+<?php
+
+if ($login_button == '')
+{
+  echo '<div class="panel-heading" Welcome User </div><div class="panel-body">';
+
+  echo '<img src="'.$_SESSION["user-image"].'" class="img-responsive img-circle img-thumbnail" />;
+
+  //echo '<h3> <b> Name: </b> .$_SESSION['user_first_name'].' '.$_SESSION['user_last_name'].'</h3>';
+
+  echo '<h3><b>Email : </b> '.$_SESSION ['user_email_address']. '</h3>';
+
+  
+  echo '<h3> <b> Name: </b> '.$_SESSION['user_first_name'].' '.$_SESSION['user_last_name'].'</h3>';
+
+  echo '<h3> <a href="logout.php"> Logout </h3></div>';
+
+}
+else
+{
+echo '<div align = "center">'.$login_button.'</div>';
+}
+
+?>
+
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -143,4 +177,4 @@ if (isset ($_GET ["code"])) {
 
 </html>
 
-?>
+
