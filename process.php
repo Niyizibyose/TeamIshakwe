@@ -1,7 +1,7 @@
 <?php
 
-$username = $_POST ['username'];       //values from login.php
-$password = $_POST['password'];
+$username = $_POST ['user'];       //values from login.php
+$password = $_POST['pass'];
 
 $username = stripslashes ($username);
 $password = stripslashes ($password);               //mysql injection prevention
