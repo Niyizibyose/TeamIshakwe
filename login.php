@@ -112,10 +112,10 @@ $login_button = '<a href="'.$google_client->createAuthUrl().'">
                       Login
                     </a>
                     <hr>
-                    <a href="index.html" class="btn btn-google btn-user btn-block">
+                    <a href="index.php" class="btn btn-google btn-user btn-block">
                       <i class="fab fa-google fa-fw"></i> Login with Google
                     </a>
-                    <a href="index.html" class="btn btn-facebook btn-user btn-block">
+                    <a href="index.php" class="btn btn-facebook btn-user btn-block">
                       <i class="fab fa-facebook-f fa-fw"></i> Login with Facebook
                     </a>
                   </form>
@@ -146,7 +146,7 @@ if ($login_button == '')
 
   echo '<img src="'.$_SESSION["user-image"].'" class="img-responsive img-circle img-thumbnail" />;
 
-  //echo '<h3> <b> Name: </b> .$_SESSION['user_first_name'].' '.$_SESSION['user_last_name'].'</h3>';
+  //echo '<b> Name: </b> .$_SESSION['user_first_name'].' '.$_SESSION['user_last_name'].'</h3>';
 
   echo '<h3><b>Email : </b> '.$_SESSION ['user_email_address']. '</h3>';
 
@@ -158,7 +158,7 @@ if ($login_button == '')
 }
 else
 {
-echo '<div align = "center">'.$login_button.'</div>';
+echo '<div align = "center">'.$lo
 }
 
 ?>
