@@ -80,7 +80,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="imitungo.php"> Imitungo</a>
-            <a class="collapse-item" href="utilities-border.php"> Ibikoresho</a>
+            <a class="collapse-item" href="ibikoresho.php"> Ibikoresho</a>
         
           </div>
         </div>
