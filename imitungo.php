@@ -135,9 +135,9 @@
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Umutoza mukuru</a>
-              <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
-              <a class="collapse-item" href="kontaro.php">Umutoza w'abazamu</a>
+              <a class="collapse-item" href="umutoza1.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="umutoza2.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="umutoza3.php">Umutoza w'abazamu</a>
           
           </div>
         </li>

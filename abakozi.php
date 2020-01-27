@@ -134,9 +134,9 @@
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="kontaro.php">Keeper's Coach</a>
+              <a class="collapse-item" href="umutoza1.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="umutoza2.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="umutoza3.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
