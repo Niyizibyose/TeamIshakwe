@@ -43,7 +43,7 @@
                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                   </div>
 
-                  <form class="user" action="process.php">
+                  <form class="user" action="">
                     <div class="form-group">
                       <input type="email" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="user">
                     </div>
