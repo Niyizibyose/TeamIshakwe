@@ -382,24 +382,15 @@
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                   <thead>
                     <tr>
-                      <th>Name</th>
-                      <th>Position</th>
-                      <th>Office</th>
-                      <th>Age</th>
-                      <th>Start date</th>
-                      <th>Salary</th>
+                      <th>Amazina</th>
+                      <th>Umurimo</th>
+                      <th>Ibiro</th>
+                      <th>Imyaka</th>
+                      <th>Igihe yatangiriye</th>
+                      <th>Umushahara</th>
                     </tr>
                   </thead>
-                  <tfoot>
-                    <tr>
-                      <th>Name</th>
-                      <th>Position</th>
-                      <th>Office</th>
-                      <th>Age</th>
-                      <th>Start date</th>
-                      <th>Salary</th>
-                    </tr>
-                  </tfoot>
+                
                   <tbody>
                     <tr>
                       <td>Tiger Nixon</td>
