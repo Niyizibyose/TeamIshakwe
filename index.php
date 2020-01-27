@@ -58,7 +58,7 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-sort-amount-down"></i>
-          <span>Budget</span>
+          <span>Ingengo y'imari</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
@@ -79,8 +79,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="utilities-color.php"> Assets</a>
-            <a class="collapse-item" href="utilities-border.php">Equipments</a>
+            <a class="collapse-item" href="utilities-color.php"> Imitungo</a>
+            <a class="collapse-item" href="utilities-border.php"> Ibikoresho</a>
         
           </div>
         </div>
@@ -89,13 +89,13 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
           <i class="fas fa-fw fa-user"></i>
-          <span>Human Resources</span>
+          <span>Ubugenzuzi bw'abakozi</span>
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.php"> Team Staff</a>
-            <a class="collapse-item" href="tables.php"> Technical Staff</a>
+            <a class="collapse-item" href="tables.php"> Abakozi b'ikipe</a>
+            <a class="collapse-item" href="tables.php"> Abakinnyi n'abatoza</a>
         
           </div>
         </div>
@@ -113,14 +113,14 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
           <i class="fas fa-fw fa-bullseye"></i>
-          <span>Players</span>
+          <span>Abakinnyi</span>
         </a>
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Goals</a>
-            <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.php">Contracts</a>
+            <a class="collapse-item" href="login.php">Ibitego</a>
+            <a class="collapse-item" href="register.php">Ubuzima</a>
+            <a class="collapse-item" href="forgot-password.php">Kontaro</a>
         
         </div>
       </li>
@@ -129,14 +129,14 @@
         <li class="nav-item">
           <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
             <i class="fas fa-fw fa-circle"></i>
-            <span> Coaches</span>
+            <span> Abatoza</span>
           </a>
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.php">Keeper's Coach</a>
+              <a class="collapse-item" href="login.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="forgot-password.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
@@ -152,7 +152,7 @@
       <li class="nav-item">
         <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
-          <span>Fixtures</span></a>
+          <span>Imikino</span></a>
       </li>
 
          
@@ -326,7 +326,7 @@
                     <div class="small text-gray-500">Chicken the Dog · 2w</div>
                   </div>
                 </a>
-                <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
+                <a class="dropdown-item text-center small text-gray-500" href="#">Soma ubundi butumwa</a>
               </div>
             </li>
 
@@ -350,12 +350,12 @@
                 </a>
                 <a class="dropdown-item" href="#">
                   <i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
-                  Activity Log
+                  Ibyakozwe
                 </a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                  Logout
+                  Funga
                 </a>
               </div>
             </li>
@@ -371,7 +371,7 @@
           <!-- Page Heading -->
           <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
-            <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Generate Report</a>
+            <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Raporo</a>
           </div>
 
           <!-- Content Row -->
@@ -383,7 +383,7 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Earnings (Monthly)</div>
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1"> Ayinjijwe ku kwezi</div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Rwf40,000</div>
                     </div>
                     <div class="col-auto">
@@ -400,7 +400,7 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Earnings (Annual)</div>
+                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Ayinjijwe ku mwaka</div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Rwf215,000</div>
                     </div>
                     <div class="col-auto">
@@ -536,7 +536,7 @@
               <!-- Project Card Example -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Projects</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Imishinga</h6>
                 </div>
                 <div class="card-body">
                   <h4 class="small font-weight-bold">Kubaka ikibuga<span class="float-right">20%</span></h4>
