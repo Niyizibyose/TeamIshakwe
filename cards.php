@@ -58,7 +58,7 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-sort-amount-down"></i>
-          <span>Budget</span>
+          <span>Ingengo y'imari</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
@@ -79,8 +79,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="utilities-color.php"> Assets</a>
-            <a class="collapse-item" href="utilities-border.php">Equipments</a>
+            <a class="collapse-item" href="utilities-color.php"> Imitungo</a>
+            <a class="collapse-item" href="utilities-border.php">Ibikoresho</a>
         
           </div>
         </div>
@@ -89,13 +89,13 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
           <i class="fas fa-fw fa-user"></i>
-          <span>Human Resources</span>
+          <span>Ubugenzuzi bw'abakozi</span>
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.php"> Team Staff</a>
-            <a class="collapse-item" href="tables.php"> Technical Staff</a>
+            <a class="collapse-item" href="tables.php"> Abakozi b'ikipe</a>
+            <a class="collapse-item" href="tables.php"> Abakinnyi n'abatoza</a>
         
           </div>
         </div>
@@ -109,18 +109,18 @@
        TECHNICAL MANAGEMENT
       </div>
 
-      <!-- Nav Item - Players Collapse Menu -->
+      <!-- Nav Item - Abakinnyi Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
           <i class="fas fa-fw fa-bullseye"></i>
-          <span>Players</span>
+          <span>Abakinnyi</span>
         </a>
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Goals</a>
-            <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.php">Contracts</a>
+            <a class="collapse-item" href="login.php">Ibitego</a>
+            <a class="collapse-item" href="register.php">Ubuzima</a>
+            <a class="collapse-item" href="forgot-password.php">Kontaro</a>
         
         </div>
       </li>
@@ -288,7 +288,7 @@
               <!-- Dropdown - Messages -->
               <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="messagesDropdown">
                 <h6 class="dropdown-header">
-                  Message Center
+                  Ubutumwa
                 </h6>
                 <a class="dropdown-item d-flex align-items-center" href="#">
                   <div class="dropdown-list-image mr-3">

@@ -140,7 +140,7 @@ class Google_Service_CloudAsset extends Google_Service
         array(
           'methods' => array(
             'batchGetAssetsHistory' => array(
-              'path' => 'v1/{+parent}:batchGetAssetsHistory',
+              'path' => 'v1/{+parent}:batchGetImitungoHistory',
               'httpMethod' => 'GET',
               'parameters' => array(
                 'parent' => array(
@@ -166,8 +166,8 @@ class Google_Service_CloudAsset extends Google_Service
                   'repeated' => true,
                 ),
               ),
-            ),'exportAssets' => array(
-              'path' => 'v1/{+parent}:exportAssets',
+            ),'exportImitungo' => array(
+              'path' => 'v1/{+parent}:exportImitungo',
               'httpMethod' => 'POST',
               'parameters' => array(
                 'parent' => array(

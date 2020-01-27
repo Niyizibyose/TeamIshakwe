@@ -109,7 +109,7 @@
        TECHNICAL MANAGEMENT
       </div>
 
-      <!-- Nav Item - Players Collapse Menu -->
+      <!-- Nav Item - Abakinnyi Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
           <i class="fas fa-fw fa-bullseye"></i>
@@ -284,7 +284,7 @@
               <!-- Dropdown - Messages -->
               <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="messagesDropdown">
                 <h6 class="dropdown-header">
-                  Message Center
+                 Ubutumwa
                 </h6>
                 <a class="dropdown-item d-flex align-items-center" href="#">
                   <div class="dropdown-list-image mr-3">

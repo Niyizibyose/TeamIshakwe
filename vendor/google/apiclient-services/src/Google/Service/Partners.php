@@ -199,7 +199,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'maxMonthlyBudget.units' => array(
+                'maxMonthlyIngengo y'imari.units' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -207,7 +207,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyBudget.nanos' => array(
+                'minMonthlyIngengo y'imari.nanos' => array(
                   'location' => 'query',
                   'type' => 'integer',
                 ),
@@ -264,7 +264,7 @@ class Google_Service_Partners extends Google_Service
                   'type' => 'string',
                   'repeated' => true,
                 ),
-                'maxMonthlyBudget.currencyCode' => array(
+                'maxMonthlyIngengo y'imari.currencyCode' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -272,7 +272,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyBudget.currencyCode' => array(
+                'minMonthlyIngengo y'imari.currencyCode' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -288,11 +288,11 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyBudget.units' => array(
+                'minMonthlyIngengo y'imari.units' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'maxMonthlyBudget.nanos' => array(
+                'maxMonthlyIngengo y'imari.nanos' => array(
                   'location' => 'query',
                   'type' => 'integer',
                 ),
