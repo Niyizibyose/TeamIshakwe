@@ -430,15 +430,12 @@
                   <h6 class="m-0 font-weight-bold text-primary"> <a href="#modal">Imodoka </a></h6>
                 </div>
                 <div class="card-body">
-                  <div class="p-3 bg-gray-100">.bg-gray-100</div>
-                  <div class="p-3 bg-gray-200">.bg-gray-200</div>
-                  <div class="p-3 bg-gray-300">.bg-gray-300</div>
-                  <div class="p-3 bg-gray-400">.bg-gray-400</div>
-                  <div class="p-3 bg-gray-500 text-white">.bg-gray-500</div>
-                  <div class="p-3 bg-gray-600 text-white">.bg-gray-600</div>
-                  <div class="p-3 bg-gray-700 text-white">.bg-gray-700</div>
-                  <div class="p-3 bg-gray-800 text-white">.bg-gray-800</div>
-                  <div class="p-3 bg-gray-900 text-white">.bg-gray-900</div> <br>
+                  <div class="p-3 bg-gray-100"> RAC 000 A</div>
+                  <div class="p-3 bg-gray-200">RAC 000 A</div>
+                  <div class="p-3 bg-gray-300">RAC 000 A</div>
+                  <div class="p-3 bg-gray-400">RAC 000 A</div>
+               
+                  <div class="p-3 bg-gray-900 text-white">RAC 000 A</div> <br>
                   <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
