@@ -63,9 +63,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="budget1.php">2020/2019</a>
-            <a class="collapse-item" href="budget2.php">2019/2018</a>
-            <a class="collapse-item" href="budget3.php"> 2018/2017</a>
+            <a class="collapse-item" href="buttons.php">2020/2019</a>
+            <a class="collapse-item" href="buttons.php">2019/2018</a>
+            <a class="collapse-item" href="cards.php"> 2018/2017</a>
           </div>
         </div>
       </li>
@@ -129,7 +129,7 @@
         <li class="nav-item">
           <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
             <i class="fas fa-fw fa-circle"></i>
-            <span>Abatoza</span>
+            <span> Coaches</span>
           </a>
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
@@ -369,8 +369,8 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-2 text-gray-800">Abakinnyi n'Abatoza</h1>
-    
+          <h1 class="h3 mb-2 text-gray-800">Abakozi</h1>
+        
 
           <!-- DataTales Example -->
           <div class="card shadow mb-4">

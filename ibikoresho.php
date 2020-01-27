@@ -62,9 +62,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="buttons.php">2020/2019</a>
-            <a class="collapse-item" href="buttons.php">2019/2018</a>
-            <a class="collapse-item" href="cards.php"> 2018/2017</a>
+            <a class="collapse-item" href="budget1.php">2020/2019</a>
+            <a class="collapse-item" href="budget2.php">2019/2018</a>
+            <a class="collapse-item" href="budget3.php"> 2018/2017</a>
           </div>
         </div>
       </li>
