@@ -384,7 +384,7 @@
                 <div class="card-header py-3">
                   <h6 class="m-0 font-weight-bold text-primary">Amazu</h6>
                 </div>
-                <div class="card-body"> 
+                <div class="card-body">  <br>
                 <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
               
                 </div>
@@ -397,7 +397,7 @@
                 </div>
                 <div class="card-body">
                   <p class="text-xs">.text-xs</p>
-                  <p class="text-lg mb-0">.text-lg</p>
+                  <p class="text-lg mb-0">.text-lg</p> <br>
                   <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
@@ -414,7 +414,8 @@
                 </div>
                 <div class="card-body">
                   <div class="px-3 py-5 bg-gradient-primary text-white">Karongi</div>
-                  <div class="px-3 py-5 bg-gradient-success text-white">Nyanza</div>
+                  <div class="px-3 py-5 bg-gradient-success text-white">Nyanza</div> <br>
+                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
 
@@ -426,7 +427,7 @@
               <!-- Grayscale Utilities -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Custom Grayscale Background Utilities</h6>
+                  <h6 class="m-0 font-weight-bold text-primary"> <a href="#modal">Imodoka </a></h6>
                 </div>
                 <div class="card-body">
                   <div class="p-3 bg-gray-100">.bg-gray-100</div>
@@ -437,7 +438,8 @@
                   <div class="p-3 bg-gray-600 text-white">.bg-gray-600</div>
                   <div class="p-3 bg-gray-700 text-white">.bg-gray-700</div>
                   <div class="p-3 bg-gray-800 text-white">.bg-gray-800</div>
-                  <div class="p-3 bg-gray-900 text-white">.bg-gray-900</div>
+                  <div class="p-3 bg-gray-900 text-white">.bg-gray-900</div> <br>
+                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
             </div>
@@ -471,24 +473,9 @@
     <i class="fas fa-angle-up"></i>
   </a>
 
-  <!-- Logout Modal-->
-  <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
-          <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
-        </div>
-        <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
-        <div class="modal-footer">
-          <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-          <a class="btn btn-primary" href="login.php">Logout</a>
-        </div>
-      </div>
-    </div>
-  </div>
+
+ 
+
 
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
