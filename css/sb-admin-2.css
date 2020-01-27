@@ -10996,3 +10996,13 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+.button-add {
+  height: 1cm;
+  width: 1px;
+  
+}
+
+.icon-center {
+  position: relative;
+}

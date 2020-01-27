@@ -17,6 +17,7 @@
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
+  <link href="css/sb-admin-2.css" rel="stylesheet">
 
 </head>
 
@@ -129,14 +130,14 @@
         <li class="nav-item">
           <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
             <i class="fas fa-fw fa-circle"></i>
-            <span> Coaches</span>
+            <span>Abatoza</span>
           </a>
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.php">Keeper's Coach</a>
+              <a class="collapse-item" href="login.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="forgot-password.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
@@ -152,7 +153,7 @@
       <li class="nav-item">
         <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
-          <span>Fixtures</span></a>
+          <span>Imikino</span></a>
       </li>
 
          
@@ -369,8 +370,8 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-1 text-gray-800">Color Utilities</h1>
-          <p class="mb-4">Bootstrap's default utility classes can be found on the official <a href="https://getbootstrap.com/docs">Bootstrap Documentation</a> page. The custom utilities below were created to extend this theme past the default utility classes built into Bootstrap's framework.</p>
+          <h1 class="h3 mb-1 text-gray-800">Imitungo y'ikipe</h1>
+          
 
           <!-- Content Row -->
           <div class="row">
@@ -381,25 +382,17 @@
               <!-- Custom Text Color Utilities -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Custom Text Color Utilities</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Amazu</h6>
                 </div>
-                <div class="card-body">
-                  <p class="text-gray-100 p-3 bg-dark m-0">.text-gray-100</p>
-                  <p class="text-gray-200 p-3 bg-dark m-0">.text-gray-200</p>
-                  <p class="text-gray-300 p-3 bg-dark m-0">.text-gray-300</p>
-                  <p class="text-gray-400 p-3 bg-dark m-0">.text-gray-400</p>
-                  <p class="text-gray-500 p-3 m-0">.text-gray-500</p>
-                  <p class="text-gray-600 p-3 m-0">.text-gray-600</p>
-                  <p class="text-gray-700 p-3 m-0">.text-gray-700</p>
-                  <p class="text-gray-800 p-3 m-0">.text-gray-800</p>
-                  <p class="text-gray-900 p-3 m-0">.text-gray-900</p>
+                <div class="card-body"> 
+              
                 </div>
               </div>
 
               <!-- Custom Font Size Utilities -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Custom Font Size Utilities</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Ubutaka</h6>
                 </div>
                 <div class="card-body">
                   <p class="text-xs">.text-xs</p>
@@ -415,14 +408,15 @@
               <!-- Background Gradient Utilities -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Custom Background Gradient Utilities</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Ubutaka</h6>
                 </div>
                 <div class="card-body">
                   <div class="px-3 py-5 bg-gradient-primary text-white">.bg-gradient-primary</div>
                   <div class="px-3 py-5 bg-gradient-success text-white">.bg-gradient-success</div>
                   <div class="px-3 py-5 bg-gradient-info text-white">.bg-gradient-info</div>
                   <div class="px-3 py-5 bg-gradient-warning text-white">.bg-gradient-warning</div>
-                  <div class="px-3 py-5 bg-gradient-danger text-white">.bg-gradient-danger</div>
+                  <div class="px-3 py-5 bg-gradient-danger text-white">.bg-gradient-danger</div> <br>
+                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
 
