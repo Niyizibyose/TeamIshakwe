@@ -118,9 +118,9 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Ibitego</a>
-            <a class="collapse-item" href="register.php">Ubuzima</a>
-            <a class="collapse-item" href="forgot-password.php">Kontaro</a>
+            <a class="collapse-item" href="ibitego.php">Ibitego</a>
+            <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
+            <a class="collapse-item" href="kontaro.php">Kontaro</a>
         
         </div>
       </li>
@@ -136,7 +136,7 @@
             
               <a class="collapse-item" href="login.php">Umutoza mukuru</a>
               <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
-              <a class="collapse-item" href="forgot-password.php">Umutoza w'abazamu</a>
+              <a class="collapse-item" href="kontaro.php">Umutoza w'abazamu</a>
           
           </div>
         </li>

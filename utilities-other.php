@@ -119,7 +119,7 @@
           
             <a class="collapse-item" href="login.php">Ibitego</a>
             <a class="collapse-item" href="register.php">Health</a>
-            <a class="collapse-item" href="forgot-password.php">Kontaro</a>
+            <a class="collapse-item" href="kontaro.php">Kontaro</a>
         
         </div>
       </li>
@@ -135,7 +135,7 @@
             
               <a class="collapse-item" href="login.php">Head Coach</a>
               <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="forgot-password.php">Keeper's Coach</a>
+              <a class="collapse-item" href="kontaro.php">Keeper's Coach</a>
           
           </div>
         </li>

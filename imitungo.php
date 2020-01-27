@@ -121,7 +121,7 @@
           
             <a class="collapse-item" href="login.php">Ibitego</a>
             <a class="collapse-item" href="register.php">Ubuzima</a>
-            <a class="collapse-item" href="forgot-password.php">Kontaro</a>
+            <a class="collapse-item" href="kontaro.php">Kontaro</a>
         
         </div>
       </li>
@@ -137,7 +137,7 @@
             
               <a class="collapse-item" href="login.php">Umutoza mukuru</a>
               <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
-              <a class="collapse-item" href="forgot-password.php">Umutoza w'abazamu</a>
+              <a class="collapse-item" href="kontaro.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
