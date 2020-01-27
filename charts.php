@@ -94,8 +94,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.php"> Abakozi b'ikipe</a>
-            <a class="collapse-item" href="tables.php"> Abakinnyi n'abatoza</a>
+            <a class="collapse-item" href="abakozi.php"> Abakozi b'ikipe</a>
+            <a class="collapse-item" href="abakinnyi.php"> Abakinnyi n'abatoza</a>
         
           </div>
         </div>
@@ -118,8 +118,8 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Ibitego</a>
-            <a class="collapse-item" href="register.php">Ubuzima</a>
+            <a class="collapse-item" href="ibitego.php">Ibitego</a>
+            <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
             <a class="collapse-item" href="kontaro.php">Kontaro</a>
         
         </div>
@@ -134,9 +134,9 @@
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Head Coach</a>
-              <a class="collapse-item" href="register.php"> Assistant Coach</a>
-              <a class="collapse-item" href="kontaro.php">Keeper's Coach</a>
+              <a class="collapse-item" href="umutoza1.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="umutoza2.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="umutoza3.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
@@ -150,7 +150,7 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="tables.php">
+        <a class="nav-link" href="fixtures.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
           <span>Fixtures</span></a>
       </li>
