@@ -63,9 +63,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="buttons.php">2020/2019</a>
-            <a class="collapse-item" href="buttons.php">2019/2018</a>
-            <a class="collapse-item" href="cards.php"> 2018/2017</a>
+            <a class="collapse-item" href="budget1.php">2020/2019</a>
+            <a class="collapse-item" href="budget2.php">2019/2018</a>
+            <a class="collapse-item" href="budget3.php"> 2018/2017</a>
           </div>
         </div>
       </li>
@@ -80,7 +80,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="imitungo.php"> Imitungo</a>
-            <a class="collapse-item" href="utilities-border.php">Ibikoresho</a>
+            <a class="collapse-item" href="ibikoresho.php">Ibikoresho</a>
         
           </div>
         </div>
@@ -118,8 +118,8 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Ibitego</a>
-            <a class="collapse-item" href="register.php">Ubuzima</a>
+            <a class="collapse-item" href="ibitego.php">Ibitego</a>
+            <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
             <a class="collapse-item" href="kontaro.php">Kontaro</a>
         
         </div>
@@ -134,9 +134,9 @@
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Umutoza mukuru</a>
-              <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
-              <a class="collapse-item" href="kontaro.php">Umutoza w'abazamu</a>
+              <a class="collapse-item" href="umutoza1.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="umutoza2.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="umutoza3.php">Umutoza w'abazamu</a>
           
           </div>
         </li>

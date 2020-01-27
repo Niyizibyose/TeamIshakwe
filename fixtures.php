@@ -63,9 +63,9 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
 
-            <a class="collapse-item" href="buttons.php">2020/2019</a>
-            <a class="collapse-item" href="buttons.php">2019/2018</a>
-            <a class="collapse-item" href="cards.php"> 2018/2017</a>
+            <a class="collapse-item" href="umutoza1.php">2020/2019</a>
+            <a class="collapse-item" href="umutoza2.php">2019/2018</a>
+            <a class="collapse-item" href="umutoza3.php"> 2018/2017</a>
           </div>
         </div>
       </li>
@@ -80,7 +80,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="imitungo.php"> Imitungo</a>
-            <a class="collapse-item" href="utilities-border.php">Ibikoresho</a>
+            <a class="collapse-item" href="ibikoresho.php">Ibikoresho</a>
         
           </div>
         </div>
