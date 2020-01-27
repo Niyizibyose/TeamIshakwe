@@ -94,8 +94,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.php"> Abakozi b'ikipe</a>
-            <a class="collapse-item" href="tables.php"> Abakinnyi n'abatoza</a>
+            <a class="collapse-item" href="abakozi.php"> Abakozi b'ikipe</a>
+            <a class="collapse-item" href="abakinnyi.php"> Abakinnyi n'abatoza</a>
         
           </div>
         </div>
@@ -369,8 +369,8 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-2 text-gray-800">Tables</h1>
-          <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.</p>
+          <h1 class="h3 mb-2 text-gray-800">Abakozi</h1>
+        
 
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
