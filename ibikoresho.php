@@ -369,8 +369,8 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-1 text-gray-800">Border Utilities</h1>
-          <p class="mb-4">Bootstrap's default utility classes can be found on the official <a href="https://getbootstrap.com/docs">Bootstrap Documentation</a> page. The custom utilities below were created to extend this theme past the default utility classes built into Bootstrap's framework.</p>
+          <h1 class="h3 mb-1 text-gray-800">Ibikoresho by'ikipe</h1>
+        
 
           <!-- Content Row -->
           <div class="row">
@@ -380,74 +380,51 @@
 
               <div class="card mb-4 py-3 border-left-primary">
                 <div class="card-body">
-                  .border-left-primary
+                  Ibikoresho byo mu biro
                 </div>
               </div>
 
               <div class="card mb-4 py-3 border-left-success">
                 <div class="card-body">
-                  .border-left-success
+                 Ibikoresho byo mu biro
                 </div>
               </div>
 
               <div class="card mb-4 py-3 border-left-info">
                 <div class="card-body">
-                  .border-left-info
+                 Imyambaro y'abakinnyi
                 </div>
               </div>
 
-              <div class="card mb-4 py-3 border-left-warning">
-                <div class="card-body">
-                  .border-left-warning
-                </div>
-              </div>
-
-              <div class="card mb-4 py-3 border-left-danger">
-                <div class="card-body">
-                  .border-left-danger
-                </div>
-              </div>
+              <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
 
             </div>
 
             <!-- Border Bottom Utilities -->
-            <div class="col-lg-6">
+     <!-- Border Left Utilities -->
+     <div class="col-lg-6">
 
-              <div class="card mb-4 py-3 border-bottom-primary">
-                <div class="card-body">
-                  .border-bottom-primary
-                </div>
-              </div>
+<div class="card mb-4 py-3 border-left-primary">
+  <div class="card-body">
+    Ibikoresho byo mu biro
+  </div>
+</div>
 
-              <div class="card mb-4 py-3 border-bottom-success">
-                <div class="card-body">
-                  .border-bottom-success
-                </div>
-              </div>
+<div class="card mb-4 py-3 border-left-success">
+  <div class="card-body">
+   Ibikoresho byo mu biro
+  </div>
+</div>
 
-              <div class="card mb-4 py-3 border-bottom-info">
-                <div class="card-body">
-                  .border-bottom-info
-                </div>
-              </div>
+<div class="card mb-4 py-3 border-left-info">
+  <div class="card-body">
+   Imyambaro y'abakinnyi
+  </div>
+</div>
 
-              <div class="card mb-4 py-3 border-bottom-warning">
-                <div class="card-body">
-                  .border-bottom-warning
-                </div>
-              </div>
+<button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
 
-              <div class="card mb-4 py-3 border-bottom-danger">
-                <div class="card-body">
-                  .border-bottom-danger
-                </div>
-              </div>
-
-            </div>
-
-          </div>
-
-        </div>
+</div>
         <!-- /.container-fluid -->
 
       </div>
