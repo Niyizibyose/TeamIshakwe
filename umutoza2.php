@@ -411,7 +411,7 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-4 text-gray-800">Umutoza mukuru</h1>
+          <h1 class="h3 mb-4 text-gray-800">Umutoza wungirije</h1>
 
           <div class="row">
 
