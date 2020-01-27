@@ -385,6 +385,7 @@
                   <h6 class="m-0 font-weight-bold text-primary">Amazu</h6>
                 </div>
                 <div class="card-body"> 
+                <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
               
                 </div>
               </div>
@@ -392,11 +393,12 @@
               <!-- Custom Font Size Utilities -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Ubutaka</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Ubutaka</h6>   
                 </div>
                 <div class="card-body">
                   <p class="text-xs">.text-xs</p>
                   <p class="text-lg mb-0">.text-lg</p>
+                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
 
@@ -411,12 +413,8 @@
                   <h6 class="m-0 font-weight-bold text-primary">Ubutaka</h6>
                 </div>
                 <div class="card-body">
-                  <div class="px-3 py-5 bg-gradient-primary text-white">.bg-gradient-primary</div>
-                  <div class="px-3 py-5 bg-gradient-success text-white">.bg-gradient-success</div>
-                  <div class="px-3 py-5 bg-gradient-info text-white">.bg-gradient-info</div>
-                  <div class="px-3 py-5 bg-gradient-warning text-white">.bg-gradient-warning</div>
-                  <div class="px-3 py-5 bg-gradient-danger text-white">.bg-gradient-danger</div> <br>
-                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
+                  <div class="px-3 py-5 bg-gradient-primary text-white">Karongi</div>
+                  <div class="px-3 py-5 bg-gradient-success text-white">Nyanza</div>
                 </div>
               </div>
 
