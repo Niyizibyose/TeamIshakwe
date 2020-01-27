@@ -184,7 +184,7 @@
             <h6 class="collapse-header">Login Screens:</h6>
             <a class="collapse-item" href="login.php">Login</a>
             <a class="collapse-item" href="register.php">Register</a>
-            <a class="collapse-item" href="kontaro.php">Forgot Password</a>
+            <a class="collapse-item" href="forgot-password.php">Forgot Password</a>
             <div class="collapse-divider"></div>
             <h6 class="collapse-header">Other Pages:</h6>
             <a class="collapse-item" href="404.php">404 Page</a>
@@ -411,7 +411,7 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-4 text-gray-800">Buttons</h1>
+          <h1 class="h3 mb-4 text-gray-800">Umutoza mukuru</h1>
 
           <div class="row">
 
@@ -420,10 +420,10 @@
               <!-- Circle Buttons -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Circle Buttons</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Raporo y'ukwezi</h6>
                 </div>
                 <div class="card-body">
-                  <p>Use Font Awesome Icons (included with this theme package) along with the circle buttons as shown in the examples below!</p>
+
                   <!-- Circle Buttons (Default) -->
                   <div class="mb-2">
                     <code>.btn-circle</code>
@@ -487,7 +487,7 @@
               <!-- Brand Buttons -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Brand Buttons</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Ubuzima bw'abakinnyi</h6>
                 </div>
                 <div class="card-body">
                   <p>Google and Facebook buttons are available featuring each company's respective brand color. They are used on the user login and registration pages.</p>
@@ -504,7 +504,7 @@
 
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Split Buttons with Icon</h6>
+                  <h6 class="m-0 font-weight-bold text-primary">Imishahara</h6>
                 </div>
                 <div class="card-body">
                   <p>Works with any button colors, just use the <code>.btn-icon-split</code> class and the markup in the examples below. The examples below also use the <code>.text-white-50</code> helper class on the icons for additional styling, but it is not required.</p>
