@@ -37,7 +37,7 @@ class Google_Service_AdExchangeBuyer extends Google_Service
 
   public $accounts;
   public $billingInfo;
-  public $Ingengo y'imari;
+  public $budget;
   public $creatives;
   public $marketplacedeals;
   public $marketplacenotes;
@@ -139,10 +139,10 @@ class Google_Service_AdExchangeBuyer extends Google_Service
           )
         )
     );
-    $this->Ingengo y'imari = new Google_Service_AdExchangeBuyer_Resource_Ingengo y'imari(
+    $this->budget = new Google_Service_AdExchangeBuyer_Resource_Budget(
         $this,
         $this->serviceName,
-        'Ingengo y'imari',
+        'budget',
         array(
           'methods' => array(
             'get' => array(

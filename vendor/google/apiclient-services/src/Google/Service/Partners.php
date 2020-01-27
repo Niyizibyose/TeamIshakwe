@@ -199,7 +199,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'maxMonthlyIngengo y'imari.units' => array(
+                'maxMonthlyBudget.units' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -207,7 +207,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyIngengo y'imari.nanos' => array(
+                'minMonthlyBudget.nanos' => array(
                   'location' => 'query',
                   'type' => 'integer',
                 ),
@@ -264,7 +264,7 @@ class Google_Service_Partners extends Google_Service
                   'type' => 'string',
                   'repeated' => true,
                 ),
-                'maxMonthlyIngengo y'imari.currencyCode' => array(
+                'maxMonthlyBudget.currencyCode' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -272,7 +272,7 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyIngengo y'imari.currencyCode' => array(
+                'minMonthlyBudget.currencyCode' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
@@ -288,11 +288,11 @@ class Google_Service_Partners extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'minMonthlyIngengo y'imari.units' => array(
+                'minMonthlyBudget.units' => array(
                   'location' => 'query',
                   'type' => 'string',
                 ),
-                'maxMonthlyIngengo y'imari.nanos' => array(
+                'maxMonthlyBudget.nanos' => array(
                   'location' => 'query',
                   'type' => 'integer',
                 ),
