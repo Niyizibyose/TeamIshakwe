@@ -43,12 +43,12 @@
                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                   </div>
 
-                  <form class="user" action="">
+                  <form class="user" action="welcome.php">
                     <div class="form-group">
-                      <input type="email" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="user">
+                      <input type="email" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="uname">
                     </div>
                     <div class="form-group">
-                      <input type="password" class="form-control form-control-user" id="pass" placeholder="Password" name="pass">
+                      <input type="password" class="form-control form-control-user" id="pass" placeholder="Password" name="pwd">
                     </div>
                     <div class="form-group">
                       <div class="custom-control custom-checkbox small">
@@ -56,7 +56,7 @@
                         <label class="custom-control-label" for="customCheck">Remember Me</label>
                       </div>
                     </div>
-                    <a href="index.php" class="btn btn-primary btn-user btn-block" id="btn" type="submit">
+                    <a href="index.php" class="btn btn-primary btn-user btn-block" id="btn" type="submit" name="login" value="login">
                       Login
                     </a>
                     <hr>
