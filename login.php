@@ -43,9 +43,9 @@
                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                   </div>
 
-                  <form class="user" action="welcome.php">
+                  <form class="user" action="welcome.php" method="post">
                     <div class="form-group">
-                      <input type="email" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="uname">
+                      <input type="text" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="uname">
                     </div>
                     <div class="form-group">
                       <input type="password" class="form-control form-control-user" id="pass" placeholder="Password" name="pwd">
