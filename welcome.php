@@ -22,6 +22,13 @@ else
 
         echo "<script>location.href = 'welcome.php' </script>";
     }
+
+    else
+    {
+        echo "<script> alert('Username or Password incorrect' </script>";
+
+        echo "<script>location.href='login.php'</script>";
+    }
 }
 
 
