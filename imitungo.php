@@ -398,7 +398,7 @@
                 <div class="card-body">
                   <p class="text-xs">.text-xs</p>
                   <p class="text-lg mb-0">.text-lg</p> <br>
-                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
+                  <a href="PopUp/index.html"><button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button> </a>
                 </div>
               </div>
 
