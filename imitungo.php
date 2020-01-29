@@ -331,6 +331,13 @@
               </div>
             </li>
 
+            <li class="nav-item dropdown no-arrow mx-1">
+              <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img src="img/uk-flag.png" class="flag" />
+                <!-- Counter - Alerts -->
+                <span class="badge badge-danger badge-counter">3+</span>
+              </a>
+
             <div class="topbar-divider d-none d-sm-block"></div>
 
             <!-- Nav Item - User Information -->
@@ -398,7 +405,7 @@
                 <div class="card-body">
                   <p class="text-xs">.text-xs</p>
                   <p class="text-lg mb-0">.text-lg</p> <br>
-                  <a href="PopUp/index.html"><button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button> </a>
+                  <button class="button-add" > <i class="fas fa-upload" class="icon-center"> </i> </button>
                 </div>
               </div>
 

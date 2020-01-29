@@ -11022,6 +11022,11 @@ body.sidebar-toggled footer.sticky-footer {
   text-decoration: none;
  }
 
+ .flag{
+   width: 1cm;
+   height: 1cm;
+ }
+
  .modal{
   background-color: rgba(0,0,0, .8);
   width:100%;
