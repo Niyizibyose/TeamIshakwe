@@ -1,3 +1,36 @@
+<?php
+
+$host = "localhost";
+$user = "root";
+$password = "";
+$db = "footsystem";
+
+
+mysqli_connect ($host, $user , $password);
+mysqli_select_db($db);
+
+if (isset ($_POST['username']))
+{
+  $uname = $_POST ['username'];
+  $password = $_POST ['password'];
+
+  $sql = "select * from loginform where User='".$uname."' AND Pass = '".$password."' limit 1";
+  
+  $result = mysql_query ($sql);
+
+  if (mysqli_num_rows ($result)== 1){
+
+    echo "Logged in";
+    exit ();
+  }
+
+  else {
+    echo "You have entered incorrect password";
+    exit();
+  }
+}
+?>
+
 
 <html lang="en">
 
@@ -41,7 +74,7 @@
                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                   </div>
 
-                  <form class="user" action="welcome.php" method="POST">
+                  <form class="user" action="#" method="POST">
                     <div class="form-group">
                       <input type="text" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Username" name="username">
                     </div>
@@ -85,9 +118,6 @@
   </div>
 
 
-
-
-
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -101,5 +131,4 @@
 </body>
 
 </html>
-
 
