@@ -388,6 +388,8 @@
                       <th>Imyaka</th>
                       <th>Igihe yatangiriye</th>
                       <th>Umushahara</th>
+                      <th>E-mail</th>
+                      <th>Telephone</th>
                     </tr>
                   </thead>
                 
@@ -399,6 +401,8 @@
                       <td>61</td>
                       <td>2011/04/25</td>
                       <td>Rwf 500 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
             
                     <td>Michael Silva</td>
@@ -407,6 +411,8 @@
                       <td>66</td>
                       <td>2012/11/27</td>
                       <td>Rwf 500 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
                 
                     <td>Michael Silva</td>
@@ -415,6 +421,8 @@
                       <td>66</td>
                       <td>2012/11/27</td>
                       <td>Rwf 500 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
                       <td>Herrod Chandler</td>
                       <td>Sales Assistant</td>
@@ -422,6 +430,8 @@
                       <td>59</td>
                       <td>2012/08/06</td>
                       <td>Rwf 500 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
      
                   
@@ -432,6 +442,8 @@
                       <td>51</td>
                       <td>2008/11/13</td>
                       <td>Rwf 123 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
      
                       <td>Michael Silva</td>
@@ -440,10 +452,10 @@
                       <td>66</td>
                       <td>2012/11/27</td>
                       <td>Rwf 500 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
         
-
-                
                     <tr>
                       <td> MPAKANIYE Blaise</td>
                       <td>Team Manager</td>
@@ -451,6 +463,8 @@
                       <td>51</td>
                       <td>2008/11/13</td>
                       <td>Rwf 123 000</td>
+                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
                     </tr>
                    
            
