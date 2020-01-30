@@ -21,6 +21,7 @@ if (isset ($_POST['username']))
   if (mysqli_num_rows ($result)== 1){
 
     echo "Logged in";
+    
     exit ();
   }
 
