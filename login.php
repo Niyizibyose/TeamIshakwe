@@ -17,9 +17,7 @@
 
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
-<?php
-  include ('welcome.php');
-?>
+
 
 </head>
 
@@ -45,7 +43,7 @@
 
                   <form class="user" action="welcome.php" method="post">
                     <div class="form-group">
-                      <input type="text" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="uname">
+                      <input type="text" class="form-control form-control-user" id="user" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="email">
                     </div>
                     <div class="form-group">
                       <input type="password" class="form-control form-control-user" id="pass" placeholder="Password" name="pwd">
@@ -85,6 +83,13 @@
     </div>
 
   </div>
+
+<?php 
+$sql = "INSERT INTO users (user_first, user_last, user_email, user_uid , user_pwd) VALUES ('Daniel', 'Nielsen', 'jean@gmail.com', 'Admin', 'test123');";
+
+mysqli_query ($conn, $sql);
+
+?>
 
 
 

@@ -80,6 +80,12 @@
 
   </div>
 
+  <?php
+
+$sql = "INSERT INTO users (user_first , user_last , user_email , user_uid"
+
+?>
+
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
