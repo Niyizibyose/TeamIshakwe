@@ -150,7 +150,7 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="imikino.php">
+        <a class="nav-link" href="fixtures.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
           <span>Imikino</span></a>
       </li>

@@ -80,7 +80,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="imitungo.php"> Imitungo</a>
-            <a class="collapse-item" href="ibikoresho.php">Ibikoresho</a>
+            <a class="collapse-item" href="utilities-border.php">Ibikoresho</a>
         
           </div>
         </div>
@@ -94,8 +94,8 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="tables.php"> Abakozi b'ikipe</a>
-            <a class="collapse-item" href="tables.php"> Abakinnyi n'abatoza</a>
+            <a class="collapse-item" href="abakozi.php"> Abakozi b'ikipe</a>
+            <a class="collapse-item" href="abakinnyi.php"> Abakinnyi n'abatoza</a>
         
           </div>
         </div>
@@ -152,7 +152,7 @@
       <li class="nav-item">
         <a class="nav-link" href="fixtures.php">
           <i class="fas fa-fw fa-calendar-plus"></i>
-          <span>Fixtures</span></a>
+          <span>Imikino</span></a>
       </li>
 
          
@@ -165,46 +165,7 @@
        <li class="nav-item">
         <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-database"></i>
-          <span>Contacts</span></a>
-      </li>
-
-      <!-- Heading -->
-      <div class="sidebar-heading">
-        Addons
-      </div>
-
-      <!-- Nav Item - Pages Collapse Menu -->
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
-          <i class="fas fa-fw fa-folder"></i>
-          <span>Pages</span>
-        </a>
-        <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
-          <div class="bg-white py-2 collapse-inner rounded">
-            <h6 class="collapse-header">Login Screens:</h6>
-            <a class="collapse-item" href="login.php">Login</a>
-            <a class="collapse-item" href="register.php">Register</a>
-            <a class="collapse-item" href="forgot-password.php">Forgot Password</a>
-            <div class="collapse-divider"></div>
-            <h6 class="collapse-header">Other Pages:</h6>
-            <a class="collapse-item" href="404.php">404 Page</a>
-            <a class="collapse-item" href="blank.php">Blank Page</a>
-          </div>
-        </div>
-      </li>
-
-      <!-- Nav Item - Charts -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.php">
-          <i class="fas fa-fw fa-chart-area"></i>
-          <span>Charts</span></a>
-      </li>
-
-      <!-- Nav Item - Tables -->
-      <li class="nav-item">
-        <a class="nav-link" href="tables.php">
-          <i class="fas fa-fw fa-table"></i>
-          <span>Tables</span></a>
+          <span>Chats</span></a>
       </li>
 
       <!-- Divider -->
