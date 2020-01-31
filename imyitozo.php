@@ -395,52 +395,52 @@
                   <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>40</td>
+                      <td>0</td>
                     </tr>
                     <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>32</td>
+                      <td>8</td>
                       
                     </tr>
         
                     <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>39</td>
+                      <td>1</td>
                     
                     </tr>
         
                     <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>40</td>
+                      <td>0</td>
                  
                     </tr>
                 
                     <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>37</td>
+                      <td>3</td>
                     
                     </tr>
               
                     <tr>
                       <td>Herve RUGWIRO</td>
                       <td>Striker</td>
-                      <td>Kigali</td>
                       <td>40</td>
-                      <td>2009/06/25</td>
+                      <td>40</td>
+                      <td>0</td>
                     
                     </tr>
                   </tbody>
