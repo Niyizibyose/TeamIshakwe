@@ -420,35 +420,36 @@
               <!-- Circle Buttons -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Raporo y'ukwezi</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 9/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 9/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 8/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 8/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 7/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 7/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 6/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 6/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 5/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 5/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 4/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 4/2019</h6>
+                  <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 3/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class="">Raporo y'ukwezi kwa 3/2019</h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 2/2019 </a> </h6>
+                
                 </div>
                 <div class="card-body">
 
@@ -473,9 +474,8 @@
                   <a href="#" class="btn btn-danger btn-circle btn-sm">
                     <i class="fas fa-trash"></i>
                   </a>
-                  <!-- Circle Buttons (Large) -->
-              
-              </div>
+
+              </div> 
 
               <!-- Brand Buttons -->
               <div class="card shadow mb-4">
@@ -483,8 +483,7 @@
                   <h6 class="m-0 font-weight-bold text-primary">Ubuzima bw'abakinnyi</h6>
                 </div>
                 <div class="card-body">
-                  <p>Google and Facebook buttons are available featuring each company's respective brand color. They are used on the user login and registration pages.</p>
-                  <p>You can create more custom buttons by adding a new color variable in the <code>_variables.scss</code> file and then using the Bootstrap button variant mixin to create a new style, as demonstrated in the <code>_buttons.scss</code> file.</p>
+                 
                   <a href="#" class="btn btn-google btn-block"><i class="fab fa-google fa-fw"></i> .btn-google</a>
                   <a href="#" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f fa-fw"></i> .btn-facebook</a>
 
