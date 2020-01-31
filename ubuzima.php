@@ -375,56 +375,43 @@
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+      
             </div>
             <div class="card-body">
               <div class="table-responsive">
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                   <thead>
                     <tr>
-                      <th>Name</th>
-                      <th>Position</th>
-                      <th>Office</th>
-                      <th>Age</th>
-                      <th>Start date</th>
-                      <th>Salary</th>
+                      <th>Amazina</th>
+                      <th>Regume</th>
+                      <th>Indwara yihariye</th>
+                      <th>Ararwaye</th>
+                    
                     </tr>
                   </thead>
-                  <tfoot>
-                    <tr>
-                      <th>Name</th>
-                      <th>Position</th>
-                      <th>Office</th>
-                      <th>Age</th>
-                      <th>Start date</th>
-                      <th>Salary</th>
-                    </tr>
-                  </tfoot>
+     
                   <tbody>
                     <tr>
                       <td>Tiger Nixon</td>
                       <td>System Architect</td>
                       <td>Edinburgh</td>
-                      <td>61</td>
-                      <td>2011/04/25</td>
-                      <td>$320,800</td>
+                      <td>Oya</td>
+                  
                     </tr>
                     
                     <tr>
                       <td>Vivian Harrell</td>
                       <td>Financial Controller</td>
                       <td>San Francisco</td>
-                      <td>62</td>
-                      <td>2009/02/14</td>
-                      <td>$452,500</td>
+                      <td>Yego</td>
+                    
                     </tr>
                     <tr>
                       <td>Timothy Mooney</td>
                       <td>Office Manager</td>
                       <td>London</td>
-                      <td>37</td>
-                      <td>2008/12/11</td>
-                      <td>$136,200</td>
+                      <td>Yego</td>
+                  
                     </tr>
                    
                   </tbody>
