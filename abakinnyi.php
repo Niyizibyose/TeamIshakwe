@@ -388,7 +388,8 @@
                       <th>Contract</th>
                       <th>Start date</th>
                       <th>Umushahara</th>
-                        <th>E-mail</th>
+                      <th>Kontaro </th>
+                      <th>E-mail</th>
                       <th>Telephone</th>
                     </tr>
                   </thead>
@@ -401,8 +402,9 @@
                       <td>40</td>
                       <td>2009/06/25</td>
                       <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank"> +250 788 000 000 </a></td>
                     </tr>
                     <tr>
                       <td>Herve RUGWIRO</td>
@@ -411,19 +413,9 @@
                       <td>40</td>
                       <td>2009/06/25</td>
                       <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
-                    </tr>
-        
-                    <tr>
-                      <td>Herve RUGWIRO</td>
-                      <td>Striker</td>
-                      <td>Kigali</td>
-                      <td>40</td>
-                      <td>2009/06/25</td>
-                      <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank"> +250 788 000 000 </a></td>
                     </tr>
         
                     <tr>
@@ -433,8 +425,21 @@
                       <td>40</td>
                       <td>2009/06/25</td>
                       <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank" > +250 788 000 000 </a></td>
+                    </tr>
+        
+                    <tr>
+                      <td>Herve RUGWIRO</td>
+                      <td>Striker</td>
+                      <td>Kigali</td>
+                      <td>40</td>
+                      <td>2009/06/25</td>
+                      <td>Rwf 500 000</td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank"> +250 788 000 000 </a></td>
                     </tr>
                 
        
@@ -445,8 +450,9 @@
                       <td>40</td>
                       <td>2009/06/25</td>
                       <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank"> +250 788 000 000 </a></td>
                     </tr>
               
                     <tr>
@@ -456,8 +462,9 @@
                       <td>40</td>
                       <td>2009/06/25</td>
                       <td>Rwf 500 000</td>
-                      <td> <a href="mailto:nkurunziza@gmail.com">nkurunziza@gmail.com</a></td>
-                      <td> <a href="tel:+250 788 000 000" > +250 788 000 000 </a></td>
+                      <td> <a href="https://drive.google.com/drive/search?q=contract" target="_blank"> View  </a> </td>
+                      <td> <a href="mailto:nkurunziza@gmail.com" target="_blank">nkurunziza@gmail.com</a></td>
+                      <td> <a href="tel:+250 788 000 000" target="_blank"> +250 788 000 000 </a></td>
                     </tr>
                   </tbody>
                 </table>
