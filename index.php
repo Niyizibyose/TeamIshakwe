@@ -567,48 +567,53 @@
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-primary text-white shadow">
                     <div class="card-body">
-                      Primary
-                      <div class="text-white-50 small">#4e73df</div>
+                    <i class="fas fa-laugh-wink"></i>
+                      Igikombe cy'amahoro 2017
+                    
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-success text-white shadow">
                     <div class="card-body">
-                      Success
-                      <div class="text-white-50 small">#1cc88a</div>
+                    <i class="fas fa-laugh-wink"></i>
+                     Igikombe cya shampiyona 2017/2018
+            
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-info text-white shadow">
                     <div class="card-body">
-                      Info
-                      <div class="text-white-50 small">#36b9cc</div>
+                    <i class="fas fa-laugh-wink"></i>
+                      Agaciro Cup 2016
+                      
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-warning text-white shadow">
                     <div class="card-body">
-                      Warning
-                      <div class="text-white-50 small">#f6c23e</div>
+                    <i class="fas fa-laugh-wink"></i>
+                   Igikombe cya shampiyona 2015/2016
+                    
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-danger text-white shadow">
                     <div class="card-body">
-                      Danger
-                      <div class="text-white-50 small">#e74a3b</div>
+                    <i class="fas fa-laugh-wink"></i>
+                      Agaciro Cup 2015
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6 mb-4">
                   <div class="card bg-secondary text-white shadow">
                     <div class="card-body">
-                      Secondary
-                      <div class="text-white-50 small">#858796</div>
+                    <i class="fas fa-laugh-wink"></i>
+                      Igikombe cya shampiyona 2013/2014
+                     
                     </div>
                   </div>
                 </div>
