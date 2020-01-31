@@ -369,7 +369,7 @@
         <div class="container-fluid">
 
           <!-- Page Heading -->
-          <h1 class="h3 mb-2 text-gray-800">Abakinnyi n'Abatoza</h1>
+          <h1 class="h3 mb-2 text-gray-800">Ubwitabire bw'imyitozo</h1>
     
 
           <!-- DataTales Example -->
