@@ -165,7 +165,7 @@
        <li class="nav-item">
         <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-database"></i>
-          <span>Contacts</span></a>
+          <span>Chat</span></a>
       </li>
 
       <!-- Sidebar Toggler (Sidebar) -->
