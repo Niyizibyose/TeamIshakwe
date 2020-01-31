@@ -420,35 +420,35 @@
               <!-- Circle Buttons -->
               <div class="card shadow mb-4">
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 9/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 9/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 8/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 8/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 7/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 7/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 6/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 6/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 5/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 5/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 4/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 4/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                  <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 3/2019 </a> </h6>
+                  <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 3/2019 </a> </h6>
                 </div>
 
                 <div class="card-header py-3">
-                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit">Raporo y'ukwezi kwa 2/2019 </a> </h6>
+                <h6 class=""> <a href="https://docs.google.com/document/d/1zWy1aEDmw1m1GkCn_xVCdTsNu9qYnnEfs1WYH-1q7R0/edit" target="_blank">Raporo y'ukwezi kwa 2/2019 </a> </h6>
                 
                 </div>
                 <div class="card-body">
@@ -484,8 +484,14 @@
                 </div>
                 <div class="card-body">
                  
-                  <a href="#" class="btn btn-google btn-block"><i class="fab fa-google fa-fw"></i> .btn-google</a>
-                  <a href="#" class="btn btn-facebook btn-block"><i class="fab fa-facebook-f fa-fw"></i> .btn-facebook</a>
+                <div class="my-2"></div>
+                  <a href="abakozi.php" class="btn btn-warning btn-icon-split" target="_blank">
+                    <span class="icon text-white-50">
+                      
+                    </span>
+                    <span class="text">Reba</span>
+                  </a>
+                  <div class="my-2"></div>
 
                 </div>
               </div>
@@ -498,71 +504,17 @@
                 <div class="card-header py-3">
                   <h6 class="m-0 font-weight-bold text-primary">Imishahara</h6>
                 </div>
-                <div class="card-body">
-                  <p>Works with any button colors, just use the <code>.btn-icon-split</code> class and the markup in the examples below. The examples below also use the <code>.text-white-50</code> helper class on the icons for additional styling, but it is not required.</p>
-                  <a href="#" class="btn btn-primary btn-icon-split">
+               
+                  <div class="my-2"></div>
+                  <a href="abakozi.php" class="btn btn-warning btn-icon-split" target="_blank">
                     <span class="icon text-white-50">
-                      <i class="fas fa-flag"></i>
+                      
                     </span>
-                    <span class="text">Split Button Primary</span>
+                    <span class="text">Reba</span>
                   </a>
                   <div class="my-2"></div>
-                  <a href="#" class="btn btn-success btn-icon-split">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-check"></i>
-                    </span>
-                    <span class="text">Split Button Success</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-info btn-icon-split">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-info-circle"></i>
-                    </span>
-                    <span class="text">Split Button Info</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-warning btn-icon-split">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-exclamation-triangle"></i>
-                    </span>
-                    <span class="text">Split Button Warning</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-danger btn-icon-split">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-trash"></i>
-                    </span>
-                    <span class="text">Split Button Danger</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-secondary btn-icon-split">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-arrow-right"></i>
-                    </span>
-                    <span class="text">Split Button Secondary</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-light btn-icon-split">
-                    <span class="icon text-gray-600">
-                      <i class="fas fa-arrow-right"></i>
-                    </span>
-                    <span class="text">Split Button Primary</span>
-                  </a>
-                  <div class="mb-4"></div>
-                  <p>Also works with small and large button classes!</p>
-                  <a href="#" class="btn btn-primary btn-icon-split btn-sm">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-flag"></i>
-                    </span>
-                    <span class="text">Split Button Small</span>
-                  </a>
-                  <div class="my-2"></div>
-                  <a href="#" class="btn btn-primary btn-icon-split btn-lg">
-                    <span class="icon text-white-50">
-                      <i class="fas fa-flag"></i>
-                    </span>
-                    <span class="text">Split Button Large</span>
-                  </a>
+          
+       
                 </div>
               </div>
 
