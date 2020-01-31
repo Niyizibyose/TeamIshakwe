@@ -119,9 +119,9 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="ibitego.php">Ibitego</a>
+              <a class="collapse-item" href="ibitego.php">Ibitego</a>
             <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
-            <a class="collapse-item" href="kontaro.php">Kontaro</a>
+            <a class="collapse-item" href="kontaro.php">Imyitozo</a>
         
         </div>
       </li>

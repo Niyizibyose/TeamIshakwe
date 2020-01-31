@@ -120,7 +120,7 @@
           
             <a class="collapse-item" href="ibitego.php">Ibitego</a>
             <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
-            <a class="collapse-item" href="kontaro.php">Kontaro</a>
+            <a class="collapse-item" href="kontaro.php">Imyitozo</a>
         
         </div>
       </li>
@@ -165,7 +165,7 @@
        <li class="nav-item">
         <a class="nav-link" href="tables.php">
           <i class="fas fa-fw fa-database"></i>
-          <span>Contacts</span></a>
+          <span>Chat</span></a>
       </li>
 
       <!-- Sidebar Toggler (Sidebar) -->
