@@ -80,7 +80,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             
             <a class="collapse-item" href="imitungo.php"> Imitungo</a>
-            <a class="collapse-item" href="utilities-border.php">Ibikoresho</a>
+            <a class="collapse-item" href="ibikoresho.php">Ibikoresho</a>
         
           </div>
         </div>
@@ -118,9 +118,9 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
           
-            <a class="collapse-item" href="login.php">Ibitego</a>
-            <a class="collapse-item" href="register.php">Ubuzima</a>
-            <a class="collapse-item" href="kontaro.php">Kontaro</a>
+            <a class="collapse-item" href="ibitego.php">Ibitego</a>
+            <a class="collapse-item" href="ubuzima.php">Ubuzima</a>
+            <a class="collapse-item" href="imyitozo.php">Imyitozo</a>
         
         </div>
       </li>
@@ -134,9 +134,9 @@
           <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
             
-              <a class="collapse-item" href="login.php">Umutoza mukuru</a>
-              <a class="collapse-item" href="register.php"> Umutoza wungirije</a>
-              <a class="collapse-item" href="kontaro.php">Umutoza w'abazamu</a>
+              <a class="collapse-item" href="umutoza1.php">Umutoza mukuru</a>
+              <a class="collapse-item" href="umutoza2.php"> Umutoza wungirije</a>
+              <a class="collapse-item" href="umutoza3.php">Umutoza w'abazamu</a>
           
           </div>
         </li>
@@ -393,23 +393,23 @@
                   <tbody>
                     <tr>
                       <td>Tiger Nixon</td>
-                      <td>System Architect</td>
-                      <td>Edinburgh</td>
+                      <td>N/A</td>
+                      <td>N/A</td>
                       <td>Oya</td>
                   
                     </tr>
                     
                     <tr>
                       <td>Vivian Harrell</td>
-                      <td>Financial Controller</td>
-                      <td>San Francisco</td>
+                      <td>N/A</td>
+                      <td>N/A</td>
                       <td>Yego</td>
                     
                     </tr>
                     <tr>
                       <td>Timothy Mooney</td>
-                      <td>Office Manager</td>
-                      <td>London</td>
+                      <td>N/A</td>
+                      <td>N/A</td>
                       <td>Yego</td>
                   
                     </tr>

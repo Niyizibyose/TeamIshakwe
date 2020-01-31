@@ -422,30 +422,41 @@
                 <div class="card-header py-3">
                   <h6 class="m-0 font-weight-bold text-primary">Raporo y'ukwezi</h6>
                 </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 9/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 8/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 7/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 6/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 5/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 4/2019</h6>
+                </div>
+
+                <div class="card-header py-3">
+                  <h6 class="">Raporo y'ukwezi kwa 3/2019</h6>
+                </div>
                 <div class="card-body">
 
                   <!-- Circle Buttons (Default) -->
-                  <div class="mb-2">
-                    <code>.btn-circle</code>
-                  </div>
-                  <a href="#" class="btn btn-primary btn-circle">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                  <a href="#" class="btn btn-success btn-circle">
-                    <i class="fas fa-check"></i>
-                  </a>
-                  <a href="#" class="btn btn-info btn-circle">
-                    <i class="fas fa-info-circle"></i>
-                  </a>
-                  <a href="#" class="btn btn-warning btn-circle">
-                    <i class="fas fa-exclamation-triangle"></i>
-                  </a>
-                  <a href="#" class="btn btn-danger btn-circle">
-                    <i class="fas fa-trash"></i>
-                  </a>
+          
                   <!-- Circle Buttons (Small) -->
                   <div class="mt-4 mb-2">
-                    <code>.btn-circle .btn-sm</code>
+                    
                   </div>
                   <a href="#" class="btn btn-primary btn-circle btn-sm">
                     <i class="fab fa-facebook-f"></i>
@@ -463,25 +474,7 @@
                     <i class="fas fa-trash"></i>
                   </a>
                   <!-- Circle Buttons (Large) -->
-                  <div class="mt-4 mb-2">
-                    <code>.btn-circle .btn-lg</code>
-                  </div>
-                  <a href="#" class="btn btn-primary btn-circle btn-lg">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                  <a href="#" class="btn btn-success btn-circle btn-lg">
-                    <i class="fas fa-check"></i>
-                  </a>
-                  <a href="#" class="btn btn-info btn-circle btn-lg">
-                    <i class="fas fa-info-circle"></i>
-                  </a>
-                  <a href="#" class="btn btn-warning btn-circle btn-lg">
-                    <i class="fas fa-exclamation-triangle"></i>
-                  </a>
-                  <a href="#" class="btn btn-danger btn-circle btn-lg">
-                    <i class="fas fa-trash"></i>
-                  </a>
-                </div>
+              
               </div>
 
               <!-- Brand Buttons -->
